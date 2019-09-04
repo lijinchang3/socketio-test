@@ -1,0 +1,3 @@
+<listener>
+    <listener-class>com.zhoujw.socketiotest.test2.SocketListener</listener-class>
+</listener>
